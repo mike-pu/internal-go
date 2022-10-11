@@ -1,4 +1,4 @@
-module logging
+module github.com/mike-pu/internal-go/logging
 
 go 1.19
 
